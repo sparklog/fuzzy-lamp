@@ -11,7 +11,7 @@ export default function Home() {
         <a href="https://solidjs.com" target="_blank" class="text-sky-600 hover:underline">
           solidjs.com
         </a>{" "}
-        to learn how to build Solid apps.
+        to learn how to build Solid apps!
       </p>
       <p class="my-4">
         <span>Home</span>
