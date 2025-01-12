@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "hannus-fuzzy-lamp-66"
+          project: "hannus-fuzzy-lamp-89"
           entrypoint: "server/index.ts"
           root: ".output"
           
